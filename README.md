@@ -1,7 +1,5 @@
 # Attendance-powerbi-report
-Steps to View the Attendance Report
-
-I've created an engaging and interactive Power BI report named "Attendance Report". Here’s how you can navigate and use the report:
+Steps to View the Attendance Report:
 
 Home Page Navigation:
 Open the Power BI report.
